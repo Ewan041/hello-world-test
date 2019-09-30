@@ -1,2 +1,3 @@
 # hello-world-test
-first time
+first time using git hub, :)
+trying to learn coding :)
